@@ -12,7 +12,7 @@ def main():
         index = i + 1
         item = {
             'name': 'Blockie #' + str(index),
-            'description': descriptions[i],
+            'description': descriptions[i].replace('  ', '\n\n'),
             'image': 'https://picsum.photos/id/' + str(index % 1000) + '/500',
         }
         folder = os.path.join(base, str(index))
