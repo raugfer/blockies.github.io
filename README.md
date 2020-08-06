@@ -2,7 +2,7 @@
 
 An ERC-721 token sample contract for Testnets.
 
-The [ABI JSON](Blockies.json) includes a faucet method. You can find and interact with the smart contract using Etherscan.
+The ABI [JSON](Blockies.json) includes a faucet method. You can find and interact with the smart contract using Etherscan.
 
 | Network | Contract Address                                                                                                              |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
