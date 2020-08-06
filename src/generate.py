@@ -15,7 +15,7 @@ def main():
             'description': descriptions[i],
             'image': 'https://picsum.photos/id/' + str(index % 1000) + '/500',
         }
-        filename = os.path.join(base, 'json', str(index) + '.json')
+        filename = os.path.join(base, 'docs', str(index) + '.json')
         with open(filename, 'w') as outfile:
             json.dump(item, outfile, separators=(',', ':'))
 
