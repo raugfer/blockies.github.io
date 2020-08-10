@@ -17,7 +17,7 @@ The ABI [JSON](Blockies.json) includes a faucet method. You can find and interac
 
 ### Source Code
 
-Blockies was written using the (OpenZeppelin)[https://openzeppelin.com/] library.
+Blockies was written using the [OpenZeppelin](https://openzeppelin.com/) library.
 
 ```solidity
 // Blockies
