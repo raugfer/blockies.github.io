@@ -41,3 +41,7 @@ contract Blockies is ERC721
 	}
 }
 ```
+
+### Credits
+
+Blockies metadata images are provided by [Lorem Picsum](https://picsum.photos/) and textual descriptions are generated from [Bacon Ipsum](https://baconipsum.com/).
