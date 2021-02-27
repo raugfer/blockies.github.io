@@ -10,10 +10,14 @@ The ABI [JSON](Blockies.json) includes a faucet method. You can interact with th
 
 | Network | Contract Address                                                                                                              |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Ropsten | [0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3](https://ropsten.etherscan.io/address/0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3) |
-| Rinkeby | [0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3](https://rinkeby.etherscan.io/address/0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3) |
-| Kovan   | [0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3](https://kovan.etherscan.io/address/0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3)   |
-| Goerli  | [0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3](https://goerli.etherscan.io/address/0xE0394f4404182F537AC9F2F9695a4a4CD74a1ea3)  |
+| ropsten | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://ropsten.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751) |
+| rinkeby | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://rinkeby.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751) |
+| kovan   | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://kovan.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)   |
+| goerli  | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://goerli.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)  |
+
+| Network | Contract Address                                                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| bsctest | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://testnet.bscscan.com/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)  |
 
 ### Source Code
 
