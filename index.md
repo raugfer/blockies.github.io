@@ -19,6 +19,10 @@ The ABI [JSON](Blockies.json) includes a faucet method. You can interact with th
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | bsctest | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://testnet.bscscan.com/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)  |
 
+| Network | Contract Address                                                                                                              |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| ftmtest | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://testnet.ftmscan.com/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)  |
+
 ### Source Code
 
 Blockies was written using the [OpenZeppelin](https://openzeppelin.com/) library.
