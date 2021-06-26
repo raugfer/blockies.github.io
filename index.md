@@ -33,7 +33,7 @@ Polygon Matic:
 
 | Network (ID)      | Contract Address                                                                                                                        |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| matictest (80001) | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://explorer-mumbai.maticvigil.com/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751) |
+| matictest (80001) | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://mumbai.polygonscan.com/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)         |
 
 ### Source Code
 
