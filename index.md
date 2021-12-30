@@ -17,6 +17,12 @@ Ethereum:
 | kovan (42)        | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://kovan.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)             |
 | goerli (5)        | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://goerli.etherscan.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)            |
 
+Avalanche:
+
+| Network (ID)      | Contract Address                                                                                                                        |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| avaxtest (43113)  | [0x46bEF163D6C470a4774f9585F3500Ae3b642e751](https://testnet.snowtrace.io/address/0x46bEF163D6C470a4774f9585F3500Ae3b642e751)           |
+
 Binance Smart Chain:
 
 | Network (ID)      | Contract Address                                                                                                                        |
